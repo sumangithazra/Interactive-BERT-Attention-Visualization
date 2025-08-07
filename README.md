@@ -1,7 +1,5 @@
 # Interactive BERT Attention Visualization Notebook
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 This project is a single Google Colab notebook for visualizing the internal attention mechanisms of a pre-trained BERT model. It uses the `bertviz` library to create interactive visualizations, helping to demystify how Transformers understand language.
 
@@ -30,7 +28,7 @@ The first code cell in the notebook contains the necessary installation commands
 
 ```python
 # The first cell in the notebook will look like this:
-!pip install torch transformers bertviz ipywidgets
+!pip install bertviz
 ```
 
 #### **Step 3: Run the Cells**
@@ -52,5 +50,6 @@ This notebook allows you to explore three different levels of attention:
 
 
 ## License
+
 
 This project is licensed under the MIT License.
