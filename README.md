@@ -20,7 +20,7 @@ Getting started is simple. All you need is a web browser and a Google account.
 
 #### **Step 1: Open in Google Colab**
 
-Click the "Open in Colab" badge at the top of this `README` (or manually open the `.ipynb` file in [Google Colab](https://colab.research.google.com/)).
+Click the "Open in Colab" badge at the top of this `README` (or manually open the `.ipynb` file in [Google Colab](https://colab.research.google.com/drive/1UG0Foc7-avANHvM3qNE-bgtNNt2_NhPW#scrollTo=4u7DqcCxtZgX)).
 
 #### **Step 2: Install Dependencies**
 
@@ -53,3 +53,4 @@ This notebook allows you to explore three different levels of attention:
 
 
 This project is licensed under the MIT License.
+
